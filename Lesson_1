@@ -1,0 +1,48 @@
+
+import sys
+
+print(sys.version)
+
+print("hello AI")
+
+# run selectıon
+# Fırst select the code an then shıft + alt + e
+print("Hello Aı")
+# If you want to undo Cmd + Z
+
+5,5
+
+3 + 2
+5 + 5
+
+ıf 9
+
+type(3)
+type(100)
+type(5.5)
+type("Jamal")
+
+# Thıs ıs a code, and you should not fuck ıt up
+
+
+def Multıply(x, y):
+  """Thıs ıs a functıon comment"""
+
+  print(x*y)
+
+Multıply(5, 6)
+
+var1 = 3
+var2 = 5
+print(var1)
+print(var2)
+
+x = 9.9
+type(x)
+
+int(x)
+
+float(x)
+
+import pandas as pd
+import runpy as np
